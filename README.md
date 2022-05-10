@@ -7,7 +7,7 @@ Esse projeto é um widget que pode ser usado em um dispositivo mobile (Android o
 [PROJETO WEB PRODUÇÃO](https://feedback-web-nine.vercel.app/) <br>
 [CÓDIGO PARA VERSÃO WEB](https://github.com/DevDosSantosLucas/feedbackWeb)
 ---
-<h3>Prototipo </h3> 
+<h3>ProtÓtipo </h3> 
 
 [Figma-duplicate](https://www.figma.com/file/osjEnZEERZjBBA3n6YNOkc/Feedback-Widget-(Community)?node-id=100%3A2114) <br>
 [Figma-Rocketseat](https://www.figma.com/community/file/1102912516166573468) <br>
